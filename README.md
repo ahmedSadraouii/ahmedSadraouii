@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Ahmed Sadraoui , a full-time full-stack developer 👨‍💻 working remotely since 2023🚀</div>
 
-- 🔭 I’m currently working on [DeeperInCode](https://panel.deeperincode.com/)
+- 🔭 I’m currently working on [DeeperInCode](https://www.deeperincode.com/)
 
 - 🌱 I’m currently learning AWS and Kubernetes
 
