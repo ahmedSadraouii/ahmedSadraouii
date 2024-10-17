@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" align="center" style="width: 100px" />
+<img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" align="center" style="width: 100px ; height : 80px" />
 </div>
 
 ### <div align="center">I'm Ahmed Sadraoui , a full-time full-stack developer 👨‍💻 working remotely since 2023🚀</div>
