@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" align="center" style="width: 100%" />
-</div>  
-
+<img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" align="center" style="width: 100px" />
+</div>
 
 ### <div align="center">I'm Ahmed Sadraoui , a full-time full-stack developer 👨‍💻 working remotely since 2023🚀</div>
 
@@ -101,8 +100,7 @@
 <a href="https://github.com/https://github.com/ahmedSadraouii" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -120,8 +118,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ahmedSadraouii&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
